@@ -7,6 +7,7 @@
 	background-image:url(https://i.travelapi.com/hotels/2000000/1850000/1847200/1847179/8b6a61c4_z.jpg);
 	height:100vh;
 	bacground-size:cover;
+	background-repeat:no-repeat;
     background-blend-mode:overlay;
     background-color:rgba(0, 0, 0, 0.5);/*for opicity (red,green,blue,alpha)alpha is the oicity value*/
     position:relative;/*we are relating hero-text to this as it is a child of hero-section*/
